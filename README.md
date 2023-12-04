@@ -7,3 +7,4 @@ After this I domain joined the PC named as CLIENT1 which I had previously instal
 ![Scans](./VM-scans.png)
 <br/>
 Using Nessus Essentials I scanned the PC, remediated the Vulnerabilites and created a report for my findings.
+![Assessment](https://github.com/kandlle/AD-VM-Lab/blob/8924de8fd05db2ffc065dd9f42bae4623c9ab792/Vulnerability%20Assesment.pdf)
