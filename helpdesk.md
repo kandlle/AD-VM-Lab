@@ -8,7 +8,7 @@ Reset a password for a user on next logon in users and computers.
 <br>
 Install software on next boot by creating a shared network folder and Group Policy Object applicable to the computers specified.
 <br>
-Understand how the ticketing process works with ![Peppermint.sh](https://www.peppermint.sh)
+Understand how the ticketing process works with [Peppermint.sh](https://peppermint.sh)
 <br>
 Edit the registry remotely and restart MS services that might be causing issues.
 <br>
