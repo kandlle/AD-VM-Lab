@@ -5,7 +5,8 @@ Active Directory was setup with 1000+ users with a [powershell script](https://g
 A scope of IP's was created from 172.16.0.100 - 200.
 After this I domain joined the PC named as CLIENT1 which I had previously installed without updates.
 <br/>
-![Scans](./VM-scans.png)
+![Scans](https://github.com/kandlle/AD-VM-Lab/blob/023ab0ef8fb363926b49aeefb77878182cd54fb1/media/VM-scans.png)
 <br/>
 Using Nessus Essentials I scanned the PC, remediated the Vulnerabilites and created a report for my findings.
 ![Assessment](https://github.com/kandlle/AD-VM-Lab/blob/102dd021a907c8db6c3a23011b4a8478e2de0fb6/VAReport.png)
+After that I did some more poking around.![Side Lab](./helpdesk.md)
